@@ -1,0 +1,14 @@
+C:\Users\Dell\Desktop\hash-table\bin\Debug\net8.0\hash-table.exe
+C:\Users\Dell\Desktop\hash-table\bin\Debug\net8.0\hash-table.deps.json
+C:\Users\Dell\Desktop\hash-table\bin\Debug\net8.0\hash-table.runtimeconfig.json
+C:\Users\Dell\Desktop\hash-table\bin\Debug\net8.0\hash-table.dll
+C:\Users\Dell\Desktop\hash-table\bin\Debug\net8.0\hash-table.pdb
+C:\Users\Dell\Desktop\hash-table\obj\Debug\net8.0\hash-table.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\hash-table\obj\Debug\net8.0\hash-table.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\hash-table\obj\Debug\net8.0\hash-table.AssemblyInfo.cs
+C:\Users\Dell\Desktop\hash-table\obj\Debug\net8.0\hash-table.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\hash-table\obj\Debug\net8.0\hash-table.dll
+C:\Users\Dell\Desktop\hash-table\obj\Debug\net8.0\refint\hash-table.dll
+C:\Users\Dell\Desktop\hash-table\obj\Debug\net8.0\hash-table.pdb
+C:\Users\Dell\Desktop\hash-table\obj\Debug\net8.0\hash-table.genruntimeconfig.cache
+C:\Users\Dell\Desktop\hash-table\obj\Debug\net8.0\ref\hash-table.dll
