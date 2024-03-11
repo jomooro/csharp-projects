@@ -1,0 +1,14 @@
+C:\Users\Dell\Desktop\dna-sequence\bin\Debug\net8.0\dna-sequence.exe
+C:\Users\Dell\Desktop\dna-sequence\bin\Debug\net8.0\dna-sequence.deps.json
+C:\Users\Dell\Desktop\dna-sequence\bin\Debug\net8.0\dna-sequence.runtimeconfig.json
+C:\Users\Dell\Desktop\dna-sequence\bin\Debug\net8.0\dna-sequence.dll
+C:\Users\Dell\Desktop\dna-sequence\bin\Debug\net8.0\dna-sequence.pdb
+C:\Users\Dell\Desktop\dna-sequence\obj\Debug\net8.0\dna-sequence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\dna-sequence\obj\Debug\net8.0\dna-sequence.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\dna-sequence\obj\Debug\net8.0\dna-sequence.AssemblyInfo.cs
+C:\Users\Dell\Desktop\dna-sequence\obj\Debug\net8.0\dna-sequence.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\dna-sequence\obj\Debug\net8.0\dna-sequence.dll
+C:\Users\Dell\Desktop\dna-sequence\obj\Debug\net8.0\refint\dna-sequence.dll
+C:\Users\Dell\Desktop\dna-sequence\obj\Debug\net8.0\dna-sequence.pdb
+C:\Users\Dell\Desktop\dna-sequence\obj\Debug\net8.0\dna-sequence.genruntimeconfig.cache
+C:\Users\Dell\Desktop\dna-sequence\obj\Debug\net8.0\ref\dna-sequence.dll
