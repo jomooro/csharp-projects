@@ -1,0 +1,14 @@
+C:\Users\Dell\Desktop\binary-conversion\bin\Debug\net8.0\binary-conversion.exe
+C:\Users\Dell\Desktop\binary-conversion\bin\Debug\net8.0\binary-conversion.deps.json
+C:\Users\Dell\Desktop\binary-conversion\bin\Debug\net8.0\binary-conversion.runtimeconfig.json
+C:\Users\Dell\Desktop\binary-conversion\bin\Debug\net8.0\binary-conversion.dll
+C:\Users\Dell\Desktop\binary-conversion\bin\Debug\net8.0\binary-conversion.pdb
+C:\Users\Dell\Desktop\binary-conversion\obj\Debug\net8.0\binary-conversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\binary-conversion\obj\Debug\net8.0\binary-conversion.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\binary-conversion\obj\Debug\net8.0\binary-conversion.AssemblyInfo.cs
+C:\Users\Dell\Desktop\binary-conversion\obj\Debug\net8.0\binary-conversion.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\binary-conversion\obj\Debug\net8.0\binary-conversion.dll
+C:\Users\Dell\Desktop\binary-conversion\obj\Debug\net8.0\refint\binary-conversion.dll
+C:\Users\Dell\Desktop\binary-conversion\obj\Debug\net8.0\binary-conversion.pdb
+C:\Users\Dell\Desktop\binary-conversion\obj\Debug\net8.0\binary-conversion.genruntimeconfig.cache
+C:\Users\Dell\Desktop\binary-conversion\obj\Debug\net8.0\ref\binary-conversion.dll
