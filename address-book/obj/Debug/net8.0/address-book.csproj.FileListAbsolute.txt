@@ -1,0 +1,14 @@
+C:\Users\Dell\Desktop\address-book\bin\Debug\net8.0\address-book.exe
+C:\Users\Dell\Desktop\address-book\bin\Debug\net8.0\address-book.deps.json
+C:\Users\Dell\Desktop\address-book\bin\Debug\net8.0\address-book.runtimeconfig.json
+C:\Users\Dell\Desktop\address-book\bin\Debug\net8.0\address-book.dll
+C:\Users\Dell\Desktop\address-book\bin\Debug\net8.0\address-book.pdb
+C:\Users\Dell\Desktop\address-book\obj\Debug\net8.0\address-book.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\address-book\obj\Debug\net8.0\address-book.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\address-book\obj\Debug\net8.0\address-book.AssemblyInfo.cs
+C:\Users\Dell\Desktop\address-book\obj\Debug\net8.0\address-book.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\address-book\obj\Debug\net8.0\address-book.dll
+C:\Users\Dell\Desktop\address-book\obj\Debug\net8.0\refint\address-book.dll
+C:\Users\Dell\Desktop\address-book\obj\Debug\net8.0\address-book.pdb
+C:\Users\Dell\Desktop\address-book\obj\Debug\net8.0\address-book.genruntimeconfig.cache
+C:\Users\Dell\Desktop\address-book\obj\Debug\net8.0\ref\address-book.dll
