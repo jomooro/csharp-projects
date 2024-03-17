@@ -1,0 +1,14 @@
+C:\Users\Dell\Desktop\selection-sort\bin\Debug\net8.0\selection-sort.exe
+C:\Users\Dell\Desktop\selection-sort\bin\Debug\net8.0\selection-sort.deps.json
+C:\Users\Dell\Desktop\selection-sort\bin\Debug\net8.0\selection-sort.runtimeconfig.json
+C:\Users\Dell\Desktop\selection-sort\bin\Debug\net8.0\selection-sort.dll
+C:\Users\Dell\Desktop\selection-sort\bin\Debug\net8.0\selection-sort.pdb
+C:\Users\Dell\Desktop\selection-sort\obj\Debug\net8.0\selection-sort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\selection-sort\obj\Debug\net8.0\selection-sort.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\selection-sort\obj\Debug\net8.0\selection-sort.AssemblyInfo.cs
+C:\Users\Dell\Desktop\selection-sort\obj\Debug\net8.0\selection-sort.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\selection-sort\obj\Debug\net8.0\selection-sort.dll
+C:\Users\Dell\Desktop\selection-sort\obj\Debug\net8.0\refint\selection-sort.dll
+C:\Users\Dell\Desktop\selection-sort\obj\Debug\net8.0\selection-sort.pdb
+C:\Users\Dell\Desktop\selection-sort\obj\Debug\net8.0\selection-sort.genruntimeconfig.cache
+C:\Users\Dell\Desktop\selection-sort\obj\Debug\net8.0\ref\selection-sort.dll
