@@ -1,0 +1,42 @@
+Hamburger,100
+French Fries,150
+Soft Drink,200
+Chicken Nuggets,120
+Pizza,80
+Taco,90
+Burrito,110
+Ice Cream Cone,180
+Salad,70
+Hot Dog,100
+Milkshake,120
+Chicken Sandwich,90
+Nachos,110
+Sushi Roll,80
+Donut,150
+Pasta,100
+Chicken Wings,120
+Smoothie,150
+Sub Sandwich,110
+Fried Chicken,90
+Soda,200
+Coffee,180
+Muffin,150
+Cupcake,140
+Scone,100
+Fish and Chips,80
+Brownie,150
+Cheeseburger,100
+Apple,50
+Banana,70
+Orange,60
+Grapes,80
+Strawberries,90
+Watermelon,120
+Pineapple,70
+Mango,110
+Kiwi,70
+Peach,80
+Pear,70
+Cherry,80
+Blueberries,90
+Coconut,60
